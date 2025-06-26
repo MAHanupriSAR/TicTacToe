@@ -47,7 +47,7 @@ Your app should now be running at [http://localhost:3000](http://localhost:3000)
 ## 🛠 Built With
 
 - React  
-- Vite or Create React App (depending on your setup)
+- Create React App
 
 ---
 
