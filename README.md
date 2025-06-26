@@ -53,11 +53,8 @@ Your app should now be running at [http://localhost:3000](http://localhost:3000)
 
 ## 📸 Screenshot
 
-_Add a screenshot if you'd like. You can paste a PNG into your repo and reference it like below:_
-
-```md
 ![screenshot](./screenshot.png)
-```
+
 
 ---
 
